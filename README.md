@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/nitin-kumar-singh-6755a4300/">
+  <a href="https://www.linkedin.com/in/nitin-kumar-singh-6755a4300/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 
